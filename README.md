@@ -10,7 +10,8 @@ This project demonstrates a robust, scalable solution for ingesting, transformin
 
 ---
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e867260c-5218-4532-8615-43db612d58dd" />
+<img width="1287" height="697" alt="image" src="https://github.com/user-attachments/assets/194b474c-37cc-4bd7-9b6e-674c64cc93fe" />
+
 
 
 ## 1. ⚙️ Components and Data Flow
