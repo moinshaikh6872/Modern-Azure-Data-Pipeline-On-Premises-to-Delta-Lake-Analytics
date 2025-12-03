@@ -1,8 +1,4 @@
-This is an **excellent, detailed, and well-architected summary** of an end-to-end data engineering project on Azure!
 
-The documentation effectively covers the entire data flow, from the on-premises source to the final visualization layer, and provides good rationale for the services chosen.
-
-Here is a simplified and highly organized breakdown of your project's architecture and workflow, suitable for a professional portfolio or technical presentation.
 
 ## 📈 Azure Data Engineering Project Breakdown
 
